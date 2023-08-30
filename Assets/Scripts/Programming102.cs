@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Programming101 : MonoBehaviour
+public class Programming102: MonoBehaviour
 {
     float health;
     int score;
